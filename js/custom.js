@@ -7,7 +7,7 @@ $(function(){
                 containment:"body",
                 timer:2000,
                 effTimer:6000,
-                controls:"#controls",
+//                controls:"#controls",
                 grayScale:false,
                 shuffle:true,
                 preserveWidth:false,
@@ -77,7 +77,7 @@ $(function(){
 					markers: [
 						{
 							position: 'center',
-							info: '<h2>Wingrid</h2>Mirpur, Dhaka<br />Bangladesh',
+							info: '<h3>#ResplandeçaDay</h3>Recanto Guduca, Chácara das mansões - Campo Grande',
 							showInfo: true
 						}
 					]
